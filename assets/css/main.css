@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #ffd1dc !important;
+			color: #ffb8c9 !important;
 		}
 
 	strong, b {
@@ -1827,7 +1827,7 @@ input, select, textarea {
 		border-radius: 5px;
 		border: none;
 		border: solid 2px #ffd1dc;
-		color: inherit;
+		color: #262626;
 		display: block;
 		outline: 0;
 		padding: 0 1em;
@@ -1848,7 +1848,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #ffd1dc;
+			border-color: #d1fff4;
 		}
 
 	select {
@@ -1948,7 +1948,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #ffd1dc;
+			border-color: #9400D3;
 		}
 
 	input[type="checkbox"] + label:before {
